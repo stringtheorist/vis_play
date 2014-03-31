@@ -6,6 +6,12 @@
 #define WIN_HT 640
 #define WIN_WD 480
 
+/*Note that currently a unifrom distribution of points is displayed
+ * This program needs to be augmented to use a Gaussian distribution.
+ */
+
+
+
 int main(int argc, char **argv) {
 	int i;
 	int j;
